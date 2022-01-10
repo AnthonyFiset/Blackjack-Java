@@ -22,6 +22,11 @@ button {
     font-weight: bolder;
     padding: 5px;
     width: 150px;
+    border: none;
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 button:hover {
